@@ -1,0 +1,28 @@
+body {
+    background: grey;
+    margin: 0 15%;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    text-transform: none;
+    border-bottom: 3px solid #405459;
+    margin-top: 30px;	
+}
+
+h2 {
+    color: #20331a;
+    font-size: 1.3em;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+myborder {
+text-align: center;
+border: 0;
+}
